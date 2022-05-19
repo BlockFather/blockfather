@@ -27,7 +27,7 @@ const Exclusive = () => {
           {loading ? (
             <div>Loading...</div>
           ) : authenticated ? (
-            <div>Welcome to Madara's exclusive area!</div>
+            <div>Welcome to BlockFather's exclusive area!</div>
           ) : (
             <div>You don't have the NFT</div>
           )}
