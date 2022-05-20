@@ -82,12 +82,12 @@ const Home = () => {
 
       </nav>
 
-      <div className="sm:hidden absolute bottom-5 -left-8 w-96 h-96 bg-indigo-600 rounded-full mix-blend-multipl filter blur-xl opacity-10 animate-blob "></div>
+      {/*<div className="sm:hidden absolute bottom-5 -left-8 w-96 h-96 bg-indigo-600 rounded-full mix-blend-multipl filter blur-xl opacity-10 animate-blob "></div>
       <div className="absolute top-16 -left-6 w-96 h-96 bg-fuchsia-400 rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob"></div>
       <div className="absolute top-16 -right-72 w-96 h-96 bg-cyan-400 rounded-full mix-blend-multipl filter blur-xl opacity-20 animate-blob"></div>
       <div className="absolute bottom-5 -right-6 w-96 h-96 bg-fuchsia-600  rounded-full mix-blend-multipl filter blur-xl opacity-20 animate-blob"></div>
       <div className="absolute bottom-3/4 -center w-72 h-72 bg-emerald-400 rounded-full mix-blend-multipl filter blur-xl opacity-20 animate-blob"></div>
-      <div className="absolute top-3/4 -center w-72 h-72 bg-rose-300  rounded-full mix-blend-multipl filter blur-xl opacity-20 animate-blob animation-delay-2000"></div>
+      <div className="absolute top-3/4 -center w-72 h-72 bg-rose-300  rounded-full mix-blend-multipl filter blur-xl opacity-20 animate-blob animation-delay-2000"></div>*/}
 
       <div className=" bg-gradient-to-t from-zinc-600 to-black flex min-h-screen flex-col items-center justify-center">
 
