@@ -151,7 +151,7 @@ const Home = () => {
             <div id="pipeline"  class="container mt-16 flex justify-between items-center mx-auto px-8 md:px-14 lg:px-20 w-full">
               <section class="w-full">
                 <h2 className="text-emerald-300">Member's only Exclusive projects in the pipelines</h2>
-                <p className="text-rose-300">BlockFather is hear now to guide the way to eternal value and utility.</p>
+                <p className="text-rose-300">BlockFather is here now to guide the way to eternal value and utility.</p>
                 
 
                 <h2 className="text-emerald-300 font-FuzzyBubbles font-bold text-xl animate-jitter mt-48">
@@ -159,7 +159,7 @@ const Home = () => {
                 </h2>
 
                 <p className="text-rose-300 font-FuzzyBubbles text-md">
-                      All NFT projects curated by BlockFather are developed to generated long-term value for club members. <br />
+                      All NFT projects curated by BlockFather are developed to generate long-term value for club members. <br />
                       BlockFather is on a mission to build a community of like-minded individuals who are passionate about the positive impact of blockchain technology.
                       <br />
                 </p>
@@ -229,8 +229,12 @@ const Home = () => {
               <section  class="w-full">
                 <h2  className="text-emerald-300 font-FuzzyBubbles font-bold text-xl animate-jitter">Art Curration</h2>
                 <p className="text-rose-300 font-FuzzyBubbles text-md">
-                Art inspires us to create. We are a community of artists, designers, and developers who are passionate about the positive impact of blockchain technology. 
-                Because of this we are creating a curated collection of art that will inspire us to achieve the goals we strive to achieve.
+                Art inspires us to create a better future and well...<br />
+                This is very important to our core values.<br />
+                We are a community of artists, designers, developers and builders passionate about the positive impact of blockchain technology
+                 and it's ability to change what has been.<br />
+                Challenge the norm, question what is and ask what could be.
+                
                   <br />
                   </p>
 
